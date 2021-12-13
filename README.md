@@ -1,2 +1,3 @@
-# dissertation-defense
-My dissertation defense slides made with reveal.js
+# Dissertation Defense Slides
+
+These are the slides used in my dissertation defense made with [reveal.js](https://revealjs.com/)
